@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://pinokaille.com" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-yellow?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/mon%20site-yellow?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 
 </p>
