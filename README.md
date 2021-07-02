@@ -36,7 +36,7 @@
 [![Rust](https://img.shields.io/badge/-rust-f74b00?style=for-the-badge&logo=rust&logoColor=black)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)]()
-[![Manjaro](https://img.shields.io/badge/manjaro-GREEN?style=for-the-badge&logo=Manjaro&logoColor=white)]()
+[![Arch](https://img.shields.io/badge/arch-blue?style=for-the-badge&logo=Archlinux&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
