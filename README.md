@@ -29,7 +29,7 @@
 </details>
 
 <details open>
-<summary>🛠 <b>Logiciel que j'utilise</b></summary>
+<summary>🛠 <b>Logiciel et languages que j'utilise</b></summary>
 <p>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -38,8 +38,6 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)]()
 [![Arch](https://img.shields.io/badge/arch-blue?style=for-the-badge&logo=Archlinux&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=PyPI&logoColor=white)]()
 [![Gimp](https://img.shields.io/badge/Gimp-31A8FF?style=for-the-badge&logo=Gimp&logoColor=white)]()
 [![vscodium](https://img.shields.io/badge/vscodium-31A8FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
